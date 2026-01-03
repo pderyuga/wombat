@@ -1,5 +1,5 @@
 import argparse
-from wombat.commands import scrape_subreddit
+from cli.commands.scrape import scrape_subreddit
 
 
 def main():

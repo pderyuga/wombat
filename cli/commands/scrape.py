@@ -1,4 +1,4 @@
-from wombat.reddit import initialize_reddit
+from cli.reddit import initialize_reddit
 from prawcore import NotFound, Forbidden, RequestException
 
 
